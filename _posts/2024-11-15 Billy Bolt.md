@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Billy Bolt"
+author: "Germán Díaz López"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: 
 ---
